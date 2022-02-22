@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles stipulated and required from Old Nick by the Duke of L--, a person of great quality in France, when he resigned and made himself over to the Devil translated from the French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25955</idno>
+            <idno type="STC">Wing A3886</idno>
+            <idno type="STC">ESTC R9858</idno>
+            <idno type="EEBO-CITATION">11670100</idno>
+            <idno type="OCLC">ocm 11670100</idno>
+            <idno type="VID">48033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 8:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles stipulated and required from Old Nick by the Duke of L--, a person of great quality in France, when he resigned and made himself over to the Devil translated from the French.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48033:1"/>
+            <pb facs="tcp:48033:1" rendition="simple:additions"/>
+            <p>ARTICLES Stipulated and Required FROM OLD NICK, BY The Duke of L— A Perſon of great QUALITY IN FRANCE, When he Reſigned and made himſelf over TO THE DEVIL.</p>
+            <p>Tranſlated from the <hi>FRENCH.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the YEAR 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48033:2"/>
+            <pb n="3" facs="tcp:48033:2"/>
+            <head>ARTICLES Stipulated and required from Old NICK, &amp;c.</head>
+            <p>
+               <hi>MEeting in</hi> French <hi>with this ſtrange and won<g ref="char:EOLhyphen"/>derful Contract made with the Devil, I re<g ref="char:EOLhyphen"/>ſolved to Tranſlate it, to ſhew the world the Wickedneſs of Man, when he is given up to Pride and Ambition.</hi>
+            </p>
+            <list>
+               <head>The ARTICLES are as followeth </head>
+               <item>I. That thou ſhalt give me down upon the nail, One Hundred Thouſand <hi>Livres</hi> in ready Money, and one Thouſand <hi>Livres</hi> every firſt <hi>Tueſday</hi> of the ſeveral Months in the Year.</item>
+               <pb n="4" facs="tcp:48033:3"/>
+               <item> II. That the gold and Silver thou delivereſt to me, ſhall be currant, and of the ſtanding value; and that it ſhall turn to the profit of my ſelf, and of all thoſe (whether Men or Women) to whom I ſhall give it, either upon the account of buſineſs, or as Gifts and Gratuities.</item>
+               <item>III. That come from whence it will, it be coyned by the hands of men; and that it paſs and be currant in what Countrey ſoever I ſhall have occaſion to be.</item>
+               <item>IV. That thou ſhalt give me power to finde and carry away Treaſures, and to diſpoſe of 'em as I ſhall think fit; without being obliged to go upon the place.</item>
+               <item>V. That thou ſhalt carry me whitherſoever I have a minde to go, and that thou ſhalt preſerve me in good and perfect health, during the ſpace of 49 Years: And if in the mean time I fall ſick, thou ſhalt provide Medicines for my Cure.</item>
+               <item>VI. That the Years be according to the Account of <hi>France,</hi> that is to ſay, that they conſiſt of twelve Months, the Month of thirty and thirty one Days, and the Days of twenty four Hours; to commence this preſent <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the Year 1675. and ſo forth to continue until the ſame day of the ſame Month, in the Year 1725. And that then thou ſhalt ſuffer me to dye without ſcandal, and accor<g ref="char:EOLhyphen"/>ding to the courſe of Nature.</item>
+               <pb n="5" facs="tcp:48033:3"/>
+               <item> VII. That thou ſhalt cauſe me to be beloved of the King, the Nobility and Gentry, and generally of all both great and ſmall, of the one as well as other Sex.</item>
+               <item>VIII. That if it happen that the King (notwithſtan<g ref="char:EOLhyphen"/>ding his Majeſties gracious Favour towards me) ſhall deny me any thing that may tend to my in<g ref="char:EOLhyphen"/>tereſt or Promotion, by the ſuggeſtion of any Favourite or Favourites that intend to vie with me, or if I ſhall have any inclination of favour a party contrary to the will of my King, That then I ſhall be furniſhed with all the Abilities and good diſpoſitions, all the means and opportunities that lie in thy power, for overturning the Government, and ſhaking the State into confuſion; and that with the love and ap<g ref="char:EOLhyphen"/>plauſe of the People, and without the privacy of all, but onely of my prime Agents, whom thou ſhalt in<g ref="char:EOLhyphen"/>ſpire, and fitly qualifie for bringing about ſuch Revo<g ref="char:EOLhyphen"/>iutions: That in ſuch a Plot I may be ſuſpected by none, but by thoſe who (to their ſorrow) ſhall not be able to prevent me, (which will render my malice of ſweeter guſto.) And that when all things are brought into the confuſion thou moſt delighteſt in, that then thou ſhalt aſſiſt me to fiſh in troubled waters, and to bring off the Prize that others may ſtrive for.</item>
+               <item>X. That thou ſhalt learn me the Art of Poyſoning.</item>
+               <item>XI. That thou ſhalt carry me into what Country I ſhall deſire, and make me underſtand the Language and Huomour of the place, ſo as to ſpeak and act without an Interpreter.</item>
+               <pb n="6" facs="tcp:48033:4"/>
+               <item> XII. That thou ſhalt preſerve me from all ſorts of Acci<g ref="char:EOLhyphen"/>dents that might befal me; and likewiſe from all forts of Fire-arms, as Bombs, Canon, Mortar-pieces, Grana<g ref="char:EOLhyphen"/>does, Muſquets, Fire-locks, Piſtols, and all other ſorts whatſoever; as alſo from the Sword, Dagger, Pike, Quarter-ſtaff, and all kind of Arms in general, rendring me every way invulnerable.</item>
+               <item>XIII. That I ſhall triumph over the Enemies of the Pub<g ref="char:EOLhyphen"/>lick, and my own private concerns.</item>
+               <item>XIV. That thou ſhalt give me a Ring, which whenſoever put on any one of my ſingers, ſhall render me Inviſible.</item>
+               <item>XV. That whatſoever queſtion I ask, thou ſhalt always give me a true and faithful Anſwer; and that as often as I ſhall call thee, thou ſhalt appear in a decent and gentle ſhape.</item>
+               <item>XVI. That when I play at any Game, I ſhall always come off a winner.</item>
+               <item>XVII. That thou ſhalt give me notice of all Plots and Contrivances againſt me, and afford me means to pre<g ref="char:EOLhyphen"/>vent the ſame.</item>
+               <item>XVIII. That if in any place I be ſet upon, thou ſhalt always be the firſt that comes to my aſſiſtance.</item>
+               <item>XIX. That thou ſhalt give me Wit to talk pertinently on all ſubjects, and confidence to tell lies when I think it convenient.</item>
+               <pb n="7" facs="tcp:48033:4"/>
+               <item> XX. That thou ſhalt hinder me from being Robbed, either by my Servants at home, or others abroad, in any place whatſoever.</item>
+               <item>XXI. That thou ſhalt give me the Univerſal Medicine, and tell me the Doſe that is to be taken of it.</item>
+               <item>XXII. That thou ſhalt hinder all perſons, of what Sex or Quality ſoever, from touching this preſent Covenant, whether it be to read, or carry it away.</item>
+               <item>XXIII. That thou ſhalt allow me to exerciſe the Duties of a good Chriſtian, that I may be free from ſcandal, and under the wings of the Church procure its overthrow.</item>
+               <item>XXIV. That I ſhall engage all ſorts of perſons, both of the one and other Sex, without any contradiction or re<g ref="char:EOLhyphen"/>luctancy.</item>
+               <item>XXV. That thou ſhalt enable me not to diſappoint any Female, who ſhall truſt to my performances.</item>
+               <item>XXVI. That thou ſhalt teach me all Languages and Sciences in twice twenty four hours.</item>
+               <item>XXVII. That thou ſhalt preſerve me from all Courts of Ju<g ref="char:EOLhyphen"/>ſtice, whether Regal, Papal, or ſubordinate.</item>
+               <item>XXVIII. That I ſhall be dextrous at all ſuch bodily Exerci<g ref="char:EOLhyphen"/>ſes I ſhall name to thee.</item>
+               <pb n="8" facs="tcp:48033:5"/>
+               <item> XXIX.That thou ſhalt give me the Herb that helpeth Memory, and that it be uſeful to my ſelf and all Men and Women to whom I ſhall give it.</item>
+               <item>XXX. That if thou fail in the performance of any the leaſt thing contained in this preſent Covenant, that then it ſhall be void and of no effect, as if the ſame had never been made or agreed upon.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48033:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
